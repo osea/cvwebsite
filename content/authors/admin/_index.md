@@ -24,7 +24,15 @@ role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tsinghua University
+  - name: Department of Computer Science and Technology, Tsinghua University
+    url: https://www.tsinghua.edu.cn/
+
+# Role/position/tagline
+role: Technical Advisor
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: Global Innovation Exchange (GIX)
     url: https://www.tsinghua.edu.cn/
 
 # Social network links
@@ -183,4 +191,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuntao WANG is an associate professor (research track) in the [Department of Computer Science and Technology at Tsinghua University](http://www.cs.tsinghua.edu.cn/ "THU-CS"), where he works in the [Pervasive Interaction Lab](http://pi.cs.tsinghua.edu.cn/ "PI") on Human-Computer Interaction (HCI) and ubiquitous computing. Dr. Wang’s research focuses on efficient behavioral computing and interaction intention inference on edge devices. Using the user’s motorial and physiological spatiotemporal features as the Bayes prior knowledge, he researches novel on-device continuously behavioral and physiological sensing methods and techniques, thus efficiently inferring the user’s interaction intention using multi-modal sensing data. Then, he develops edge intelligent sensing techniques and systems targeting high-impact application domains, including health and accessibility. He has published more than 60 conference or journal papers including ACAM CHI, IMWUT, UIST, etc. Seven of his papers were recognized as best paper or honorable mentioned awards. Among young scholars under age 35, he publishes the most IMWUT (Ubicomp, CCF A) journal papers. He has 24 granted patents including 10 WIPO/US patents. Dr. Wang's research work was recognized by the Young Elite Scientists Sponsorship Program by the China Association for Science and Technology (CAST) in 2022, the First Prize of Science and Technology Award of the Chinese Institute of Electronics (CIE) in 2019, the Excellent Innovation Award of the Chinese Association of Artificial Intelligence (CAAI) in 2021, and the second prize of X-prize competition in 2018. 
+
